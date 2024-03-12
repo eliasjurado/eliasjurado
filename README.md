@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I am Elias Jurado, I have been a dotnet programmer for 7 years, participating in sales and human resources systems. 
+Currently, I'm learning Golang ⚡.
 <!--
 **eliasjurado/eliasjurado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
