@@ -1,6 +1,6 @@
 # .NET + Go Backend Engineer
 
-Construyo APIs y microservicios con **C#/.NET** y **Go** en cloud.
+I build APIs and microservices with **C#/.NET** and **Go** in the cloud.
 
 **Core stack:** `.NET` · `Go` · `Cloud` · `AI`
 
