@@ -1,7 +1,8 @@
-# Hi there 👋
+# .NET + Go Backend Engineer
 
-I’m **Elias Jurado**, a **Backend Engineer** focused on **C#/.NET** and **Go**.
-I design and build APIs, distributed systems, and cloud solutions, with growing focus on **AI-powered backend workflows**.
+Construyo APIs y microservicios con **C#/.NET** y **Go** en cloud.
+
+**Core stack:** `.NET` · `Go` · `Cloud` · `AI`
 
 ## Focus
 - Backend development with **.NET** and **Go**
